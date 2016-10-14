@@ -1,0 +1,4 @@
+0001-Fix-shading-and-remove-unneeded-modules.patch
+0002-Fix-xbean-compatibility.patch
+0003-Remove-plexus-maven-plugin-dependency.patch
+0004-Remove-eclipse-plugin.patch
