@@ -4,7 +4,7 @@
 #
 Name     : jdk-hawtjni-project
 Version  : hawtjni.project.1.10
-Release  : 2
+Release  : 3
 URL      : https://github.com/fusesource/hawtjni/archive/hawtjni-project-1.10.tar.gz
 Source0  : https://github.com/fusesource/hawtjni/archive/hawtjni-project-1.10.tar.gz
 Summary  : No detailed summary available
@@ -28,6 +28,7 @@ BuildRequires : jdk-commons-io
 BuildRequires : jdk-commons-lang
 BuildRequires : jdk-commons-lang3
 BuildRequires : jdk-commons-logging
+BuildRequires : jdk-commons-parent
 BuildRequires : jdk-commons-validator
 BuildRequires : jdk-doxia
 BuildRequires : jdk-doxia-sitetools
